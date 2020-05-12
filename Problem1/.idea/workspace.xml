@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c79b64b-80b7-4f3d-83c9-2da6ef55a433" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Users\shivam_pandey\Desktop\Git-2.24.0.2-64-bit.exe" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1blUUlGxg93nr5orUi7WP7tRJ9f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.3440367" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shivam_pandey\Documents\Shivam Personal\Personal\Problem1\src\main\scala" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Implementation" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="driver.Implementation" />
+      <module name="Problem1" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\shivam_pandey\Documents\Set2\scala-exercise-questions\problem1\PovertyEstimates.xlsx C:\Users\shivam_pandey\Documents\Set2\scala-exercise-questions\problem1\StatesName.xlsx" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\shivam_pandey\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c79b64b-80b7-4f3d-83c9-2da6ef55a433" name="Default Changelist" comment="" />
+      <created>1589206191688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589206191688</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Problem1 Spark Scala" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem1 Spark Scala" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="338" y="39" key="#Unnamed" timestamp="1589206402937">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="338" y="39" key="#Unnamed/0.0.1366.728@0.0.1366.728" timestamp="1589206402937" />
+    <state x="413" y="121" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1589260987376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="121" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1589260987376" />
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589260640020">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589260640020" />
+    <state x="463" y="71" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1589260149020">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="71" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1589260149020" />
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589206401448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1589206401448" />
+    <state x="372" y="57" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1589206233591">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="372" y="57" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1589206233591" />
+    <state x="463" y="109" key="FileChooserDialogImpl" timestamp="1589264891848">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="109" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589264891848" />
+    <state x="536" y="262" key="Github.ShareDialog" timestamp="1589264730431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="536" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1589264730431" />
+    <state width="1325" height="175" key="GridCell.Tab.0.bottom" timestamp="1589262064037">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1325" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589262064037" />
+    <state width="1325" height="175" key="GridCell.Tab.0.center" timestamp="1589262064036">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1325" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589262064036" />
+    <state width="1325" height="175" key="GridCell.Tab.0.left" timestamp="1589262064036">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1325" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589262064036" />
+    <state width="1325" height="175" key="GridCell.Tab.0.right" timestamp="1589262064036">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1325" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589262064036" />
+    <state x="216" y="0" key="SettingsEditor" timestamp="1589264894834">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="216" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589264894834" />
+    <state x="0" y="92" key="new project wizard" timestamp="1589216623213">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="92" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1589216623213" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589264725934">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589264725934" />
+    <state x="435" y="78" width="503" height="604" key="svn.repositoryBrowser" timestamp="1589264706843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="435" y="78" width="503" height="604" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1589264706843" />
+    <state x="452" y="278" key="svn.upgradeDialog" timestamp="1589264706928">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="452" y="278" key="svn.upgradeDialog/0.0.1366.728@0.0.1366.728" timestamp="1589264706928" />
+    <state x="452" y="170" key="svn4idea.import.options" timestamp="1589263153367">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="452" y="170" key="svn4idea.import.options/0.0.1366.728@0.0.1366.728" timestamp="1589263153367" />
+  </component>
+</project>
